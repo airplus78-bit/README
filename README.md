@@ -12,6 +12,8 @@ Currently building hands-on expertise in:
 * **IT Support & Systems** (Google IT Support Certificate)
 * **Networking** (Studying for CCNA)
 * **Python automation**, **Linux**, **SQL**, **SIEM**, **IDS**
+* **Google Cloud Security**
+* **Cybersecurity AI Agent**
 
 ---
 
@@ -20,7 +22,7 @@ Currently building hands-on expertise in:
 * **Security:** SIEM, IDS/IPS, Vulnerability Management, Incident Response, NIST CSF
 * **Networking:** TCP/IP, Subnetting, Routing & Switching (CCNA in progress)
 * **Tools:** Python, Linux CLI, SQL, Wireshark, Splunk/Chronicle
-* **Systems:** Windows, macOS, Linux, Ticketing & Support Tools
+* **Systems: ** Windows 11, macOS, Kali Linux, Ubuntu, google cloud command center, Ticketing & Support Tools
 
 ---
 
@@ -32,7 +34,8 @@ Scripts for detecting anomalies, failed logins, and summarizing system events.
 
 ### 🌐 Network Tools
 
-Educational port scanners and socket-based utilities.
+Educational port scanners and socket-based utilities. VPN, MS Defender, V3 virus scanner. 
+Google cloud security, Compute, and storage configuration and monitoring.
 
 ### 🤖 Security Automation
 
@@ -41,6 +44,12 @@ Hash integrity checkers, password strength tools, and sanitization scripts.
 ### 🐧 Linux Tools
 
 Automation scripts for monitoring, parsing, and system reporting.
+Kali Linux: Nmap, Wireshark, JohntheRipper.
+
+### AI 
+
+Gemini, ChatGPT, Claude, Grok, Kimi, DeepSeek. 
+Reverse ENG 
 
 ---
 
@@ -49,7 +58,11 @@ Automation scripts for monitoring, parsing, and system reporting.
 * **Google Cybersecurity Professional Certificate**
 * **Google IT Support Professional Certificate**
 * **CCNA (in progress)**
-
+* **CompTIA Security+ COMP001023090823**
+* **CompTIA Network+ COMP001023090823**
+* **Google Cloud CyberSecurity Certificate**
+* **Google Project Manager Certificate**
+* **IBM Cybersecurity Analyst Certificate**
 ---
 
 ## 🌱 What I'm Working On
@@ -57,6 +70,7 @@ Automation scripts for monitoring, parsing, and system reporting.
 * Building a full cybersecurity project portfolio
 * Strengthening Python automation for SOC workflows
 * Deepening networking fundamentals for CCNA
+* Building AI agent for cybersecurity
 
 ---
 
